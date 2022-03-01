@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "omega-baton-319411",
+  "private_key_id": "48bd9eaf00d87c88c05af8d7338ef6ecafb4cd33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCD8jyrnlOlkPVS\nhgtny59ebqyo0xm2CWhsmvOowRfCSmxVZ+TH6QbsbPkK+QUNfK8EVa5EelrZuED6\nVb39c3jHjpdvzBy1iUHLy72uUCYzxU1/+fqxcYR9dOSKDs1gjQ9iK3wV13A/lJ+s\nHsxZNdlWGmhB7xExaRFBYYRUDZ1TKXNoGRvOL7ALXlMzoDguB0/SNa/s8J7dCG6X\n9J05bMI1tgtGniBHh3DjGWC6vZPaZHfzc3LKEhbW2myFIvUB6yuP6c1YRupMiYWk\nt2I2eFU8g9YeHyIiUspqF9pc+x40Zhm48NCsYuO+9m6WeS+cgKv9iPX99qE2w0tZ\n9aSlTXM1AgMBAAECggEAALpn0/lLXuDePwwBqMX6kCvY2hRS0lVaSoHPEcGsXuRy\n6pm9183qaDLwa5C/krklwhwIRSp5Bos6GJI75S0rn8uipvmfuES/TzTwTAj3Mlac\nEeEQSBsR7xtOXjtXWM65JK02wcFu8NA3fVys0K/iY35BJbQAX/RuJZ04fLpCgatO\nh2ccteiBWwHfUGOSyfZG52eo7yW/Y01DOxqQzwe+fDjOLL5aR3AMknlekMoy4fEV\nn2VkGOZrlwzaFY4V4NqLNZWjF+qMbzmagzP7M/C5DxKUzF5vka22amCznuINEamP\ngnkf0SVrPkntkJjW8jAJ5UCqHVz70jWlVQXhdWwzlQKBgQC55xXKT9ZogUs6+bg+\n7oKv9MfiTwVL9yG97rO2cCnvCoj+hWCSxZ5QqoJVAh9dbBs1ycwvwjFfBKBi65vq\nKuKGC/8R3NhjEEvEsIXqDfMAP7zHH0DE98pvFPjheVd1mRn0TIhe0FaYQxcUweCG\nKzYTxxd1lD/zXyJwuyR3iV2DCwKBgQC1stC+9Ryw4TZ+rVzgVLTaIez5KsR8Y6vM\neq40srDh0kFL1d2+Qq5eYEUlFymm4IG4vRvw87Euo+eZAIPnfcipMxi7zGDUyRLC\n+nM/HXvlDvbPj88SSmv6DzLK8CQL6AF3Rbx4vxiGNH70AKrqx6hxE1zzTGMGL04g\nOPlq8qbKvwKBgH5EyXYrGDTPbSvXph+InVeqaYH7rltUtqRtV7+ZG8JzY22NZnUK\nqWedCP14fZlU7n5wXLIrsqEZYV8PLU22ZzopN80INinDTdOBGtRJOT54DF8riTDA\nJc2hbxKm+pKztP9MZGwSEl9FYo4Eyd4Xx5lTZ0nDslQ50AjF9BUFRnDVAoGAOcq3\nZJV327a2a5JeoSewIlV6F0KIHnxhT3eR40cWxazngeRzVCnHZlM+iu6UG/T6rbTQ\np1ILgCc36c1lJwM2CMMs0cbO4b9WzVd1wpRxLMkWrawzE8FCGNYutKeu/2560OII\ncWtutHkMDDYOJwD8TYL4JJaeRIBVXCBjDKZDcOcCgYA8cfJTPm1b5NBuE2KK54yu\nkysOMqWO+r6HL6S0KGAHqIZLhnt0IYsW9SJh/eIqBr9kxdcybyPdtOyZUMAnOIOA\njOCh+LeRkxFhvp1c3lEfrq28jqTx4X5YMcKBGrVK5Vpgs3P1yUfFlihGy/OhtaCB\nTdPBrRZmkhYR3rnuAqlnow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "acare-chatbot@omega-baton-319411.iam.gserviceaccount.com",
+  "client_id": "112763060059521352886",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acare-chatbot%40omega-baton-319411.iam.gserviceaccount.com"
+}

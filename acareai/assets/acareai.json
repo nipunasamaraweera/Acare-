@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "acare-vet-krty",
+  "private_key_id": "2dcb3f45f5eb1f960477f58afef5e01f3ea09859",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCNIBb/nC4YORzz\nZYgQV/ZTDozFfJeqJBZXvnxDHGlO4Xai6O7eaZM0dMgG1vlFv28dfiUoto0ds869\nyz0ODBh35NI4f8V413XOyBMOaIolx85MLhaWlBaxx8SRtx8B23kSxeF//D59nNbK\njvJiNIXPJFfMvZ97CC5pkn4onvmYB7yhRKnNuhFBCah1hWdT+sa3B1XMWH8Zd9kB\niCn7XbgYNgWo9RoOQoF/sUW0reDMDwjSOcj59lhJTvKh5o7l2K8FhSIWlzRTpwpD\n9K1WOhRUjIap9SMp/woGRZ55+ekD4pUpRjbzn4bmcJFFB20ciUDJhObXx+tWQmNh\nrKXNsYPfAgMBAAECggEADVnT0yq7UZ9VldEtJh6sNv9RYf1/e6EeW/6xUsgFTmkW\nCCNxNalXO8cwhTUhL/AEWw3sBgX/I6g3Ds2DYSjTx8Pl/2JXFC+N/Zn/84UATMKy\nSZKyoFwyKW90sTRZwps4wQXnZ2w9nTSRPWh4lcHSRt5xT/VAeSs0+NfbB4zCoBc3\nSrqzqVjYtaBtnZe8FlwCpJ7dj5INjoavIJAtHc7jzMVSLD+biD5m/k9q7rhFsYL1\nOVaB8Wm4WbdLMGZahnSef8o7RkdAB+H4WbQfrCFgtKsrFBvINTzJjLr/8sqeJ4ZR\nCxCa0NklfwWlvKVAJPTWtkF8GwVt2E3wxQkk1zWKgQKBgQDGBlu5JZ5fe5Vw7sHQ\nxcGtMskmk9GFjeEruBmmPmSIV2b+25rcxWIwwi9CtOi9df6Ho2ldqZ7b5vRixPXU\n+wBtrDyvCyVh8oQ86yjDwW3/VAgmgD/CF9gldddplfq+IACvQBseWHTWuPuVM5ji\nPHQPeX/vinpv5m+Ihja89+7tJwKBgQC2cTT7D1Ahe768ZddWjTphK6d3oEO1JQNz\nLl++8vsaIYwDw7Ma7/CIXsVYoSpdZjkvvwLStUTqPV9QdCoU40hcQM8YL1h07xeP\nwVL1Ic00IgzPLmFMjH7PB9HFVTEB13nSse+5vlkAcGH1soGA3+CFFjRvWnPDimxp\nGnkioHrWiQKBgDDpySZGgIQdRqCKmR00e86ISN9ai9ptXT0rUEqcBsEWtb4mCG6X\n4tUgYgQcI5EI4EIovxH/n9m5howPEpn1FfoBHUwveKBlAvz5KSyRTtZOr2SzMQyE\nT0ORhA/0l+b2iLTBJPGt785KCvqjsBPR0ukvncZRckTJqqsSW9r5cu7pAoGBAIyy\nP0aCZ6x6zvxhmbCw113KmarCmJShB8kS8VnD7uwXBPB+Qqi6c4fndk/EcnR2+hEd\nQGMY0h3G2LOl8jILmWkzvcIL+S6smEIPuBc9SxAyViiMvxKWotCsWhTRfyrJbrSS\n7qoS5nZVNOaTFBY8ENzx49wgKHibTsG7XcHbev/pAoGBALlgG+dFVCutsUNQSTv9\npgD8xYphxkK0JN1ADgYSLSp6tMzeybIM4geDICJUpJf/VKBURhC4MSMnS4dVrWB1\nz4egbvsaAvX2n3czhRzP1kaQLrGNpLmfUgoTk35Zf8TLTUPFe1bprCtFHh+p6SZ8\ncGElzDrFa5aNcecsLhwME5QS\n-----END PRIVATE KEY-----\n",
+  "client_email": "acacre@acare-vet-krty.iam.gserviceaccount.com",
+  "client_id": "105261383923543791125",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acacre%40acare-vet-krty.iam.gserviceaccount.com"
+}

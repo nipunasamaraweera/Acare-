@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "animalcare-32edc",
+  "private_key_id": "ac14f89ccae21300ffa3884a4a7a62f2534b29c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4VAambIAdtf10\npYZJEnKp8rgszd2RCCyN+QLg0q0Ro5NtxRS4yN97rpV7bnjT8r9ORwkt77DSvPwp\n2szFpPxL5hteCKxwfh67BvqGJO8/QQ8dz7JsttdnjFsk8fkBNty12Z3cIy3DEmdf\nmjrOELtOMXH7tgJFkwX8R4Cc5KUQYmqctZfZ3fpvX5Pj4KvCaXjfkiFiVa9i/C0S\nE0+EtKuwKI/uvfLHCLGsikZ7/ve3H1P4avFiQjMpR92td2kGHO/OoxQjIbx1SVAw\nolQtKAkC9Rns/Acb0HTW5nZq3P3y1+dCa08cXDm8XTIisj2l8nT8WLB08yzYT6oh\nhJ+DDY/jAgMBAAECggEADNmoGFxntr/eumM7EDIN4K+FS8j9oXmWkuk2sadjnbSv\nzPnDKY9ba9BufGCQYi+XSvo5zMQxKWfiaSU8nFTAVVGRO9t9Rgm3fmYMpg3CHhXy\nMKuvmSj1WF3ZEXjLBAd9QzI3cUbZ5F0Oltl2MF0glGFvEai30ijfRHNUUdvAxCUH\nBLJ5gI5LXQH6PyvsWZHP2ICixmbM0oq4XZhb4MHwqQWyH2QCjH+8TfCt5sxBWpFC\nkaG+fl8ZH5AMOmoYj53WUhHooxWUdl7yXKFGQ/I3U88ojlZTcaLKfsrY5dTas0ro\nsJN1Jmm8GZZzzSO4dBRcEotETY5FBD6+M48q8J/zhQKBgQD7QUi0mKHbbIbXY+RJ\nR+e1zxbenEixmVj/Zn1cn40ss72NqB0HnngiWeNlw6Yur2h4jyez02t/qCurI1zM\nyzKc3Ep2BP8tN3sO/18sAuNifRJd8eA8muLTqL1GtW24ue1FroEFAQ1nvzm+RWdr\n2aTDj5ZOd3EZdia4QPFIiZqglwKBgQC7zy2ZE4r/8XeNtuDQ2i507dh0RpCY955T\n1pijzLmrQNTh2OkvMJ4JhLU2T1pkcb0gAAufMj2wHV+PMxPlrQoF2iMMicKL4dzR\nuOEzUl6KX/sgAduQFVC5ToJoB4Q3FbHE6oEMkB861/fBBkATK51fAegERxVJMRu0\npUOM7Q2olQKBgEnapsRvGSSmgfxOIIxp1nJarR5CUhviN4bbWX4gaB77tnwtLltO\n+YEfavg+ylputQa7DbCONMsRY8SqYFzSXc498qU+UsO3yzRdXFxTfQM2QG/c6Uzn\nOkV9FCX0roveGyCgasxNwuL8Er0bKYtKLmRNkKD/+v7A/CCs9j+cMxeBAoGAbQRT\n+ZlohC0MMszHLzSW5vTxQn17je+ejhfxPpOl6wyVBgw9P1E/S1MnRUFGvStwltSv\n6lbljAdg4uTJVfbd7Iu08KA+t6gB4BMrVfkoO7Z/NRMe+kIFO6ug8vX5/2euaxmc\nk0hNeIDIpdkU9IvKq82VenYwmu3QoUmVLoaj+QkCgYBZHnH9+ICt1I2/ieQ97fDj\n7CkIsiJ4BU3n01y51AwsEf5XjVSRupRJzU5+8Sd4A92MiNpsMp1gQVGIE/BKCquS\n/Fk+RwrQ3ZW5CQVnstnElf6ZwC5C0NWjwZh2UAno7KtROhMvVP1cKi8vdDS4owMr\noUckiqZBE9G4guyfM+03Pg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "animalcare-32edc@appspot.gserviceaccount.com",
+  "client_id": "108450302723387052879",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/animalcare-32edc%40appspot.gserviceaccount.com"
+}
